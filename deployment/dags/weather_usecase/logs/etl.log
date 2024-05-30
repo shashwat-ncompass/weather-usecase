@@ -1,0 +1,433 @@
+2024-05-29 12:40:29,773 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 12:40:29,897 - ERROR - Error occurred in task extract_weather: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-05-29 12:48:17,020 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 12:48:17,218 - ERROR - Error occurred in task extract_weather: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-05-29 12:56:07,573 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 12:56:07,874 - INFO - Task extract_weather completed successfully.
+2024-05-29 12:56:08,042 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 12:56:08,272 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 12:56:13,489 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 12:56:20,293 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 12:57:01,885 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 12:57:02,103 - INFO - Task extract_weather completed successfully.
+2024-05-29 12:57:02,242 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 12:57:02,435 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 12:57:04,514 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 12:57:07,196 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 12:57:25,514 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 12:57:25,754 - INFO - Task extract_weather completed successfully.
+2024-05-29 12:57:25,898 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 12:57:26,103 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 12:57:28,231 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 12:57:30,855 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 13:11:42,799 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 13:11:42,934 - INFO - Task extract_weather completed successfully.
+2024-05-29 13:11:43,013 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 13:11:43,138 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 13:11:44,436 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 13:11:46,090 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 13:12:02,277 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 13:12:02,408 - INFO - Task extract_weather completed successfully.
+2024-05-29 13:12:02,486 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 13:12:02,606 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 13:12:03,849 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 13:12:05,454 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 13:18:28,921 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 13:18:29,045 - INFO - Task extract_weather completed successfully.
+2024-05-29 13:18:29,122 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 13:18:29,233 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 13:18:30,403 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 13:18:31,948 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:29:45,071 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:29:45,205 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:29:45,283 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:29:45,387 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:29:46,961 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:29:49,028 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:30:08,624 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:30:08,752 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:30:08,836 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:30:08,948 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:30:10,206 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:30:11,871 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:30:23,681 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:30:23,813 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:30:23,902 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:30:24,016 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:30:25,254 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:30:26,846 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:30:37,022 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:30:37,166 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:30:37,261 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:30:37,380 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:30:38,682 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:30:40,360 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:30:50,228 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:30:50,361 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:30:50,439 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:30:50,558 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:30:51,851 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:30:53,484 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:33:36,030 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:33:36,175 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:33:36,257 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:33:36,375 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:33:37,597 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:33:39,242 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:34:01,008 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:34:01,145 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:34:01,233 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:34:01,367 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:34:02,747 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:34:04,298 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:36:52,194 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:36:52,362 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:36:52,448 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:36:52,566 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:36:53,941 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:36:55,685 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:37:19,796 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:37:19,941 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:37:20,068 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:37:20,202 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:37:21,579 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:37:23,565 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:41:53,213 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:41:53,351 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:41:53,433 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:41:53,546 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:41:54,779 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:41:56,369 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:43:49,909 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:43:50,038 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:43:50,144 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:43:50,257 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:43:51,468 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:43:53,063 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 14:45:58,184 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 14:45:58,306 - INFO - Task extract_weather completed successfully.
+2024-05-29 14:45:58,388 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 14:45:58,510 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 14:45:59,729 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 14:46:01,328 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 15:50:03,067 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 15:50:03,197 - INFO - Task extract_weather completed successfully.
+2024-05-29 15:50:03,279 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 15:50:03,399 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 15:50:04,678 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 15:50:06,272 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:03:32,269 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:03:32,400 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:03:32,489 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:03:32,599 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:03:33,870 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:03:35,611 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:06:28,781 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:06:28,916 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:06:28,999 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:06:29,109 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:06:30,371 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:06:32,014 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:08:35,105 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:08:35,242 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:08:35,325 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:08:35,450 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:08:36,854 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:08:38,508 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:11:58,313 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:11:58,447 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:11:58,547 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:11:58,687 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:11:59,935 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:12:01,723 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:12:30,730 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:12:30,867 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:12:30,951 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:12:31,088 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:12:32,340 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:12:33,982 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:27:47,407 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:27:47,542 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:27:47,614 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:27:47,734 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:27:49,432 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:27:51,687 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:34:12,317 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:34:12,440 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:34:12,535 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:34:12,646 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:34:14,410 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:34:16,892 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:37:35,843 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:37:35,972 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:37:36,051 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:37:36,167 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:37:37,921 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:37:40,250 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:40:00,768 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:40:00,898 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:40:00,978 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:40:01,091 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:40:02,883 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:40:05,249 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:40:19,820 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:40:19,956 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:40:20,037 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:40:20,155 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:40:21,797 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:40:23,960 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:41:26,941 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:41:27,071 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:41:27,154 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:41:27,257 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:41:28,826 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:41:31,268 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:54:33,796 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:54:33,936 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:54:34,015 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:54:34,117 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:54:35,360 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:54:36,926 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 16:56:18,538 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 16:56:18,674 - INFO - Task extract_weather completed successfully.
+2024-05-29 16:56:18,763 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 16:56:18,882 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 16:56:20,105 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 16:56:21,742 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 17:31:01,363 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 17:31:01,503 - INFO - Task extract_weather completed successfully.
+2024-05-29 17:31:01,584 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 17:31:01,700 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 17:31:02,960 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 17:31:04,572 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 17:31:06,611 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.OperationalError) (3730, "Cannot drop table 'city_coordinates' referenced by a foreign key constraint 'weather_ibfk_1' on table 'weather'.")
+[SQL: 
+DROP TABLE city_coordinates]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-05-29 17:35:58,117 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 17:35:58,252 - INFO - Task extract_weather completed successfully.
+2024-05-29 17:35:58,343 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 17:35:58,460 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 17:35:59,675 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 17:36:01,243 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 17:36:03,153 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.OperationalError) (3730, "Cannot drop table 'city_coordinates' referenced by a foreign key constraint 'weather_ibfk_1' on table 'weather'.")
+[SQL: 
+DROP TABLE city_coordinates]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-05-29 17:36:44,688 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 17:36:44,826 - INFO - Task extract_weather completed successfully.
+2024-05-29 17:36:44,905 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 17:36:45,025 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 17:36:46,250 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 17:36:47,879 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 17:36:49,866 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.OperationalError) (3730, "Cannot drop table 'city_coordinates' referenced by a foreign key constraint 'weather_ibfk_1' on table 'weather'.")
+[SQL: 
+DROP TABLE city_coordinates]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-05-29 17:37:29,352 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 17:37:29,477 - INFO - Task extract_weather completed successfully.
+2024-05-29 17:37:29,572 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 17:37:29,685 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 17:37:30,928 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 17:37:32,570 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 17:37:34,512 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.OperationalError) (3730, "Cannot drop table 'city_coordinates' referenced by a foreign key constraint 'weather_ibfk_1' on table 'weather'.")
+[SQL: 
+DROP TABLE city_coordinates]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-05-29 17:46:15,649 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 17:46:15,797 - INFO - Task extract_weather completed successfully.
+2024-05-29 17:46:15,898 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 17:46:16,027 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 17:46:17,291 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 17:46:18,919 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 17:46:20,942 - ERROR - Error occurred in task write_city_coordinates_to_db: Table 'city_coordinates' already exists.
+2024-05-29 18:00:17,860 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 18:00:18,081 - INFO - Task extract_weather completed successfully.
+2024-05-29 18:00:18,226 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 18:00:18,444 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 18:00:20,584 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 18:00:23,279 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 18:00:26,744 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.OperationalError) (3730, "Cannot drop table 'city_coordinates' referenced by a foreign key constraint 'weather_ibfk_1' on table 'weather'.")
+[SQL: 
+DROP TABLE city_coordinates]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-05-29 18:31:20,457 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 18:31:20,796 - INFO - Task extract_weather completed successfully.
+2024-05-29 18:31:20,940 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 18:31:21,166 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 18:31:23,532 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 18:31:26,777 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 18:31:31,929 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.OperationalError) (1054, "Unknown column 'coordinate_id' in 'field list'")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-05-29 19:05:12,793 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:05:12,918 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:05:13,012 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:05:13,121 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:05:14,328 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:05:15,960 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:05:17,958 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.DataError) (1264, "Out of range value for column 'city_id' at row 1")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-05-29 19:24:58,532 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:24:58,641 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:24:58,714 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:24:58,830 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:25:00,082 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:25:01,744 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:25:25,630 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:25:25,755 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:25:25,817 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:25:25,927 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:25:27,102 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:25:28,663 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:26:16,120 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:26:16,245 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:26:16,308 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:26:16,423 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:26:17,651 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:26:19,176 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:26:46,201 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:26:46,322 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:26:46,389 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:26:46,491 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:26:47,671 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:26:49,243 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:27:20,690 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:27:20,799 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:27:20,877 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:27:20,987 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:27:22,146 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:27:23,636 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:27:25,626 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.DataError) (1264, "Out of range value for column 'city_id' at row 1")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-05-29 19:27:47,063 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:27:47,172 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:27:47,247 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:27:47,365 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:27:48,520 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:27:50,027 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:27:51,997 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.DataError) (1264, "Out of range value for column 'city_id' at row 1")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-05-29 19:31:12,263 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:31:12,372 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:31:12,451 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:31:12,560 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:31:13,939 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:31:15,553 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:31:17,584 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.DataError) (1264, "Out of range value for column 'city_id' at row 1")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-05-29 19:35:19,120 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 19:35:19,261 - INFO - Task extract_weather completed successfully.
+2024-05-29 19:35:19,356 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 19:35:19,482 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 19:35:20,748 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 19:35:22,346 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 19:35:24,350 - ERROR - Invalid response format for task write_city_coordinates_to_db.
+2024-05-29 19:35:26,728 - ERROR - Invalid response format for task write_weather_to_db.
+2024-05-29 19:35:28,765 - ERROR - Invalid response format for task write_uv_index_to_db.
+2024-05-29 19:35:31,193 - ERROR - Invalid response format for task write_air_quality_index_to_db.
+2024-05-29 19:36:06,223 - ERROR - Invalid response format for task write_historical_temperature_to_db.
+2024-05-29 19:36:50,456 - ERROR - Invalid response format for task write_historical_precipitation_to_db.
+2024-05-29 21:40:01,031 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 21:40:01,177 - INFO - Task extract_weather completed successfully.
+2024-05-29 21:40:01,258 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 21:40:01,413 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 21:40:04,927 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 21:40:07,062 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 21:40:09,356 - ERROR - Error occurred in task write_city_coordinates_to_db: (pymysql.err.IntegrityError) (1062, "Duplicate entry '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65' for key 'city_coordinates.PRIMARY'")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:06:34,169 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 22:06:34,290 - INFO - Task extract_weather completed successfully.
+2024-05-29 22:06:34,371 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 22:06:34,492 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 22:06:35,766 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 22:06:37,422 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 22:06:39,372 - ERROR - Error occurred in task insert_data_city_coordinates: (pymysql.err.IntegrityError) (1062, "Duplicate entry '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65' for key 'city_coordinates.PRIMARY'")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:06:39,372 - WARNING - No data found for task write_city_coordinates_to_db.
+2024-05-29 22:06:40,549 - ERROR - Error occurred in task insert_data_weather: (pymysql.err.IntegrityError) (1062, "Duplicate entry '1b86f1e0-afe9-485c-9582-a112833ea90c' for key 'weather.PRIMARY'")
+[SQL: INSERT INTO weather (weather_id, city_id, temperature, humidity, precipitation, wind_speed, cloud_cover, particular_date, time) VALUES (%(weather_id)s, %(city_id)s, %(temperature)s, %(humidity)s, %(precipitation)s, %(wind_speed)s, %(cloud_cover)s, %(particular_date)s, %(time)s)]
+[parameters: [{'weather_id': '1b86f1e0-afe9-485c-9582-a112833ea90c', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 15.84, 'humidity': 37.0, 'precipitation': 0.0, 'wind_speed': 4.8, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(13, 0)}, {'weather_id': '9dc26f3d-f720-4165-af3e-093a2d0be358', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 14.64, 'humidity': 45.0, 'precipitation': 0.0, 'wind_speed': 7.7, 'cloud_cover': 38.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(14, 0)}, {'weather_id': '9410d0bc-4420-4bcb-a3ac-558367c89848', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 13.64, 'humidity': 55.0, 'precipitation': 0.0, 'wind_speed': 4.21, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(15, 0)}, {'weather_id': '934bacd5-148f-45d9-9fd3-0a29793cb7a6', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 13.14, 'humidity': 57.0, 'precipitation': 0.0, 'wind_speed': 6.49, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(16, 0)}, {'weather_id': '11910910-b62f-48e3-b51a-6519b9c97840', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 12.29, 'humidity': 58.0, 'precipitation': 0.0, 'wind_speed': 2.81, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(17, 0)}, {'weather_id': 'd5461f93-696b-4474-be31-61247cb8e764', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 12.09, 'humidity': 59.0, 'precipitation': 0.0, 'wind_speed': 1.02, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(18, 0)}, {'weather_id': '33bdaf0f-9f35-4245-872d-36d68fc1e621', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 10.49, 'humidity': 70.0, 'precipitation': 0.4, 'wind_speed': 10.95, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(19, 0)}, {'weather_id': '8310f121-7d17-4890-a7ba-4fdaaaea171f', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 8.19, 'humidity': 93.0, 'precipitation': 1.0, 'wind_speed': 5.62, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(20, 0)}  ... displaying 10 of 50376 total bound parameter sets ...  {'weather_id': 'b9d2bb76-281a-44a3-8b6b-fd041d05b1e2', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'temperature': 39.82, 'humidity': 24.0, 'precipitation': 0.0, 'wind_speed': 13.05, 'cloud_cover': 0.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(11, 0)}, {'weather_id': '49c0865f-deea-4d67-8c8b-921472e3929f', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'temperature': 39.07, 'humidity': 26.0, 'precipitation': 0.0, 'wind_speed': 12.18, 'cloud_cover': 5.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(12, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:06:40,549 - WARNING - No data found for task write_weather_to_db.
+2024-05-29 22:06:41,592 - ERROR - Error occurred in task insert_data_uv_index: (pymysql.err.IntegrityError) (1062, "Duplicate entry '6d586518-3b9b-4b00-907e-61a8be5ec4c9' for key 'uv_index.PRIMARY'")
+[SQL: INSERT INTO uv_index (uv_id, city_id, uv_index, uv_index_clear_sky, particular_date, time) VALUES (%(uv_id)s, %(city_id)s, %(uv_index)s, %(uv_index_clear_sky)s, %(particular_date)s, %(time)s)]
+[parameters: [{'uv_id': '6d586518-3b9b-4b00-907e-61a8be5ec4c9', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 1.75, 'uv_index_clear_sky': 1.75, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(13, 0)}, {'uv_id': '0b7726a8-f377-4e26-beaa-05c5a070dd71', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.25, 'uv_index_clear_sky': 0.3, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(14, 0)}, {'uv_id': '5e9f8af0-5ab0-42a4-b3bc-856b16d5f9e6', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(15, 0)}, {'uv_id': 'f2d868b3-04d1-470c-a215-c0a300335435', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(16, 0)}, {'uv_id': '97b06e7d-dff1-454e-9ec0-b1fc1305a2f6', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(17, 0)}, {'uv_id': '84f3751c-afe8-4eb9-87e9-24ad4d590036', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(18, 0)}, {'uv_id': 'b0d42588-5e00-434b-983f-981c97ddd2e5', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(19, 0)}, {'uv_id': '88c14eec-d58a-4b8d-9e69-41a866d49158', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(20, 0)}  ... displaying 10 of 50376 total bound parameter sets ...  {'uv_id': 'e99f73f7-5b4c-457d-ad92-14143220d7e4', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'uv_index': 4.25, 'uv_index_clear_sky': 4.55, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(11, 0)}, {'uv_id': '131ee43e-7e6e-4361-af6a-cc557f4f4f4c', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'uv_index': 2.25, 'uv_index_clear_sky': 2.45, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(12, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:06:41,593 - WARNING - No data found for task write_uv_index_to_db.
+2024-05-29 22:06:42,814 - ERROR - Error occurred in task insert_data_air_quality_index: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'ea0d1589-9f9a-4988-a630-86362a35181c' for key 'air_quality_index.PRIMARY'")
+[SQL: INSERT INTO air_quality_index (aq_id, city_id, pm10, pm2_5, carbon_monoxide, nitrogen_dioxide, sulphur_dioxide, ozone, particular_date, time) VALUES (%(aq_id)s, %(city_id)s, %(pm10)s, %(pm2_5)s, %(carbon_monoxide)s, %(nitrogen_dioxide)s, %(sulphur_dioxide)s, %(ozone)s, %(particular_date)s, %(time)s)]
+[parameters: [{'aq_id': 'ea0d1589-9f9a-4988-a630-86362a35181c', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 2.6, 'pm2_5': 0.8, 'carbon_monoxide': 115.0, 'nitrogen_dioxide': 1.3, 'sulphur_dioxide': 0.1, 'ozone': 113.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(13, 0)}, {'aq_id': '2a7bb08f-6fa6-4092-a27f-556f1359aa0f', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 3.8, 'pm2_5': 1.2, 'carbon_monoxide': 116.0, 'nitrogen_dioxide': 1.1, 'sulphur_dioxide': 0.1, 'ozone': 122.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(14, 0)}, {'aq_id': 'c59a2068-b139-4efe-864a-1da3a58cf9ea', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 5.4, 'pm2_5': 1.6, 'carbon_monoxide': 118.0, 'nitrogen_dioxide': 0.8, 'sulphur_dioxide': 0.1, 'ozone': 135.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(15, 0)}, {'aq_id': '01e8d276-7788-43ac-a77a-7fc39a3a4ff1', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 9.5, 'pm2_5': 3.4, 'carbon_monoxide': 121.0, 'nitrogen_dioxide': 0.5, 'sulphur_dioxide': 0.2, 'ozone': 146.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(16, 0)}, {'aq_id': '2d7068a6-4b23-4dec-a0a7-1db56ca5d2bb', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 10.4, 'pm2_5': 4.0, 'carbon_monoxide': 126.0, 'nitrogen_dioxide': 0.3, 'sulphur_dioxide': 0.3, 'ozone': 154.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(17, 0)}, {'aq_id': '5fddc53d-597e-45c0-b9c1-6724367e0aca', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 11.4, 'pm2_5': 4.7, 'carbon_monoxide': 132.0, 'nitrogen_dioxide': 0.2, 'sulphur_dioxide': 0.4, 'ozone': 160.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(18, 0)}, {'aq_id': '31c1dfec-9551-4a58-8b07-04ee23124e2c', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 11.2, 'pm2_5': 4.6, 'carbon_monoxide': 136.0, 'nitrogen_dioxide': 0.1, 'sulphur_dioxide': 0.5, 'ozone': 164.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(19, 0)}, {'aq_id': '7a09e900-1d74-479e-b4d5-2ee6960c57a2', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 11.3, 'pm2_5': 4.7, 'carbon_monoxide': 137.0, 'nitrogen_dioxide': 0.1, 'sulphur_dioxide': 0.5, 'ozone': 165.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(20, 0)}  ... displaying 10 of 50375 total bound parameter sets ...  {'aq_id': '7cd3fcf5-2d25-44df-ad89-b64c401e4ce5', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'pm10': 31.8, 'pm2_5': 14.8, 'carbon_monoxide': 137.0, 'nitrogen_dioxide': 3.5, 'sulphur_dioxide': 2.1, 'ozone': 48.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(11, 0)}, {'aq_id': 'ed183fdb-df99-4fde-b104-761585cfe28f', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'pm10': 31.3, 'pm2_5': 14.5, 'carbon_monoxide': 132.0, 'nitrogen_dioxide': 3.3, 'sulphur_dioxide': 2.0, 'ozone': 47.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(12, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:06:42,814 - WARNING - No data found for task write_air_quality_index_to_db.
+2024-05-29 22:06:58,817 - ERROR - Error occurred in task insert_data_historical_temperature: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'f38cbe91-9b4a-4f2f-be92-378dff92dc03' for key 'historical_temperature.PRIMARY'")
+[SQL: INSERT INTO historical_temperature (hist_temp_id, coordinate_uu_id, temperature, particular_date, time) VALUES (%(hist_temp_id)s, %(coordinate_uu_id)s, %(temperature)s, %(particular_date)s, %(time)s)]
+[parameters: [{'hist_temp_id': 'f38cbe91-9b4a-4f2f-be92-378dff92dc03', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 8.142999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(0, 0)}, {'hist_temp_id': '7722fafa-ac9d-4665-b439-7c179e66b786', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 8.142999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(1, 0)}, {'hist_temp_id': '4ee06488-acf8-4a28-9e6d-83b4787abf76', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 8.243000030517578, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(2, 0)}, {'hist_temp_id': '6cc6f7a2-b17d-47f6-967e-4c26e5ec97ba', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 9.642999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(3, 0)}, {'hist_temp_id': 'fe6c1227-d367-489f-a9b4-4b870aa4ae24', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 12.142999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(4, 0)}, {'hist_temp_id': '2f291427-9418-46d2-b7b4-295df20d065e', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 14.542999267578125, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(5, 0)}, {'hist_temp_id': '26bc46f8-0ff9-4387-93c3-20ce0e89097e', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 16.292999267578125, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(6, 0)}, {'hist_temp_id': 'e333262b-00b9-417a-8ecb-85fa0b8b29b4', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 17.4429988861084, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(7, 0)}  ... displaying 10 of 933120 total bound parameter sets ...  {'hist_temp_id': '33f56cab-2308-469a-badc-52efeb69cf39', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'temperature': 17.430500030517578, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(22, 0)}, {'hist_temp_id': 'aeaa582a-2bf4-4733-bd7b-61379a1d0ada', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'temperature': 16.430500030517578, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(23, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:06:58,817 - WARNING - No data found for task write_historical_temperature_to_db.
+2024-05-29 22:07:18,533 - ERROR - Error occurred in task insert_data_historical_precipitation: (pymysql.err.IntegrityError) (1062, "Duplicate entry '51bad1bc-8309-41b4-831f-975c32d5ee9c' for key 'historical_precipitation.PRIMARY'")
+[SQL: INSERT INTO historical_precipitation (hist_preci_id, coordinate_uu_id, precipitation, snowfall, rain, particular_date, time) VALUES (%(hist_preci_id)s, %(coordinate_uu_id)s, %(precipitation)s, %(snowfall)s, %(rain)s, %(particular_date)s, %(time)s)]
+[parameters: [{'hist_preci_id': '51bad1bc-8309-41b4-831f-975c32d5ee9c', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(0, 0)}, {'hist_preci_id': 'd56dd09d-6759-4449-a8ab-956a6586ab34', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(1, 0)}, {'hist_preci_id': '42cb15bb-e2b5-4460-bb94-37fb1144b28b', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(2, 0)}, {'hist_preci_id': 'be012ecb-637f-4db0-90ca-3d478baf5b13', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(3, 0)}, {'hist_preci_id': '7381fcfd-f0fc-43a0-827e-26374170f3d7', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(4, 0)}, {'hist_preci_id': '53e9fdae-0df7-4345-b472-29ca817f25bd', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(5, 0)}, {'hist_preci_id': 'bd35d3ef-9097-422b-99c3-7ca68301cb4b', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(6, 0)}, {'hist_preci_id': '0965a7f9-d429-4954-925d-18db703c6da9', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(7, 0)}  ... displaying 10 of 933120 total bound parameter sets ...  {'hist_preci_id': '627dfe28-d663-41ef-a847-6688b0bc1a11', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(22, 0)}, {'hist_preci_id': 'ca537657-57bb-45e8-9718-f5dc3aac5372', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(23, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:07:18,533 - WARNING - No data found for task write_historical_precipitation_to_db.
+2024-05-29 22:08:15,739 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 22:08:15,861 - INFO - Task extract_weather completed successfully.
+2024-05-29 22:08:15,926 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 22:08:16,064 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 22:08:17,421 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 22:08:19,012 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 22:08:20,961 - ERROR - Error occurred in task insert_data_city_coordinates: (pymysql.err.IntegrityError) (1062, "Duplicate entry '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65' for key 'city_coordinates.PRIMARY'")
+[SQL: INSERT INTO city_coordinates (city_id, city_name, coordinate_id, latitude, longitude) VALUES (%(city_id)s, %(city_name)s, %(coordinate_id)s, %(latitude)s, %(longitude)s)]
+[parameters: [{'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'city_name': 'Thang', 'coordinate_id': '5398ae78-0bff-4116-9cdb-174229faa45f', 'latitude': 34.9274, 'longitude': 76.79336}, {'city_id': 'ef01a8f6-a4cd-4a41-b484-26f5bfc21f45', 'city_name': 'P\u016bnch', 'coordinate_id': '9b12c6db-0646-47e2-9ced-45e24cfaf142', 'latitude': 33.77033, 'longitude': 74.09254}, {'city_id': '3df3155f-ce76-4d40-bb07-9eac3935fed9', 'city_name': 'Keelakarai', 'coordinate_id': '4194c22b-3d9a-4164-99a0-d3b7fe9aa967', 'latitude': 9.23183, 'longitude': 78.78545}, {'city_id': '0332461f-5a13-4a42-b711-c71714ae3a28', 'city_name': 'Zunheboto', 'coordinate_id': '9dbad188-a002-4b36-a5ce-a8e8a9446ba3', 'latitude': 25.96667, 'longitude': 94.51667}, {'city_id': '274728a7-6ae1-4f99-a4d7-512d3db86dd5', 'city_name': 'Ziro', 'coordinate_id': 'd272d68a-1ca4-4425-bc09-8b5d57624e49', 'latitude': 27.59497, 'longitude': 93.83854}, {'city_id': '835a16d0-141d-47ec-bc07-5e330a93d707', 'city_name': 'Zam\u0101nia', 'coordinate_id': 'abc23e58-da26-4b72-a3e1-2ff70a660199', 'latitude': 25.41961, 'longitude': 83.55786}, {'city_id': '521199c1-474f-4786-87a5-bfaf7de6adf6', 'city_name': 'Zaidpur', 'coordinate_id': '8e2f4997-6698-4315-bc89-1e994652c0c0', 'latitude': 26.83093, 'longitude': 81.32929}, {'city_id': '22109ad1-263a-4c5d-89ea-ae92413a0fe3', 'city_name': 'Zahir\u0101b\u0101d', 'coordinate_id': '7262b7d3-e560-416d-9a86-289e0132c41a', 'latitude': 17.68138, 'longitude': 77.60743}  ... displaying 10 of 2100 total bound parameter sets ...  {'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'city_name': 'Indi', 'coordinate_id': '3c717438-95aa-4fd8-9d8c-a430b05173be', 'latitude': 17.17735, 'longitude': 75.9526}, {'city_id': '3d646f9b-a143-4ef6-9375-f96e617ffb52', 'city_name': 'Indergarh', 'coordinate_id': 'd8cabc1d-43c5-416b-9afb-f1039477bd7c', 'latitude': 26.93521, 'longitude': 79.6712}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:08:20,962 - WARNING - No data found for task write_city_coordinates_to_db.
+2024-05-29 22:08:22,071 - ERROR - Error occurred in task insert_data_weather: (pymysql.err.IntegrityError) (1062, "Duplicate entry '1b86f1e0-afe9-485c-9582-a112833ea90c' for key 'weather.PRIMARY'")
+[SQL: INSERT INTO weather (weather_id, city_id, temperature, humidity, precipitation, wind_speed, cloud_cover, particular_date, time) VALUES (%(weather_id)s, %(city_id)s, %(temperature)s, %(humidity)s, %(precipitation)s, %(wind_speed)s, %(cloud_cover)s, %(particular_date)s, %(time)s)]
+[parameters: [{'weather_id': '1b86f1e0-afe9-485c-9582-a112833ea90c', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 15.84, 'humidity': 37.0, 'precipitation': 0.0, 'wind_speed': 4.8, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(13, 0)}, {'weather_id': '9dc26f3d-f720-4165-af3e-093a2d0be358', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 14.64, 'humidity': 45.0, 'precipitation': 0.0, 'wind_speed': 7.7, 'cloud_cover': 38.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(14, 0)}, {'weather_id': '9410d0bc-4420-4bcb-a3ac-558367c89848', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 13.64, 'humidity': 55.0, 'precipitation': 0.0, 'wind_speed': 4.21, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(15, 0)}, {'weather_id': '934bacd5-148f-45d9-9fd3-0a29793cb7a6', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 13.14, 'humidity': 57.0, 'precipitation': 0.0, 'wind_speed': 6.49, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(16, 0)}, {'weather_id': '11910910-b62f-48e3-b51a-6519b9c97840', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 12.29, 'humidity': 58.0, 'precipitation': 0.0, 'wind_speed': 2.81, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(17, 0)}, {'weather_id': 'd5461f93-696b-4474-be31-61247cb8e764', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 12.09, 'humidity': 59.0, 'precipitation': 0.0, 'wind_speed': 1.02, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(18, 0)}, {'weather_id': '33bdaf0f-9f35-4245-872d-36d68fc1e621', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 10.49, 'humidity': 70.0, 'precipitation': 0.4, 'wind_speed': 10.95, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(19, 0)}, {'weather_id': '8310f121-7d17-4890-a7ba-4fdaaaea171f', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'temperature': 8.19, 'humidity': 93.0, 'precipitation': 1.0, 'wind_speed': 5.62, 'cloud_cover': 100.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(20, 0)}  ... displaying 10 of 50376 total bound parameter sets ...  {'weather_id': 'b9d2bb76-281a-44a3-8b6b-fd041d05b1e2', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'temperature': 39.82, 'humidity': 24.0, 'precipitation': 0.0, 'wind_speed': 13.05, 'cloud_cover': 0.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(11, 0)}, {'weather_id': '49c0865f-deea-4d67-8c8b-921472e3929f', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'temperature': 39.07, 'humidity': 26.0, 'precipitation': 0.0, 'wind_speed': 12.18, 'cloud_cover': 5.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(12, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:08:22,071 - WARNING - No data found for task write_weather_to_db.
+2024-05-29 22:08:23,118 - ERROR - Error occurred in task insert_data_uv_index: (pymysql.err.IntegrityError) (1062, "Duplicate entry '6d586518-3b9b-4b00-907e-61a8be5ec4c9' for key 'uv_index.PRIMARY'")
+[SQL: INSERT INTO uv_index (uv_id, city_id, uv_index, uv_index_clear_sky, particular_date, time) VALUES (%(uv_id)s, %(city_id)s, %(uv_index)s, %(uv_index_clear_sky)s, %(particular_date)s, %(time)s)]
+[parameters: [{'uv_id': '6d586518-3b9b-4b00-907e-61a8be5ec4c9', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 1.75, 'uv_index_clear_sky': 1.75, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(13, 0)}, {'uv_id': '0b7726a8-f377-4e26-beaa-05c5a070dd71', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.25, 'uv_index_clear_sky': 0.3, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(14, 0)}, {'uv_id': '5e9f8af0-5ab0-42a4-b3bc-856b16d5f9e6', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(15, 0)}, {'uv_id': 'f2d868b3-04d1-470c-a215-c0a300335435', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(16, 0)}, {'uv_id': '97b06e7d-dff1-454e-9ec0-b1fc1305a2f6', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(17, 0)}, {'uv_id': '84f3751c-afe8-4eb9-87e9-24ad4d590036', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(18, 0)}, {'uv_id': 'b0d42588-5e00-434b-983f-981c97ddd2e5', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(19, 0)}, {'uv_id': '88c14eec-d58a-4b8d-9e69-41a866d49158', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'uv_index': 0.0, 'uv_index_clear_sky': 0.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(20, 0)}  ... displaying 10 of 50376 total bound parameter sets ...  {'uv_id': 'e99f73f7-5b4c-457d-ad92-14143220d7e4', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'uv_index': 4.25, 'uv_index_clear_sky': 4.55, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(11, 0)}, {'uv_id': '131ee43e-7e6e-4361-af6a-cc557f4f4f4c', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'uv_index': 2.25, 'uv_index_clear_sky': 2.45, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(12, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:08:23,119 - WARNING - No data found for task write_uv_index_to_db.
+2024-05-29 22:08:24,324 - ERROR - Error occurred in task insert_data_air_quality_index: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'ea0d1589-9f9a-4988-a630-86362a35181c' for key 'air_quality_index.PRIMARY'")
+[SQL: INSERT INTO air_quality_index (aq_id, city_id, pm10, pm2_5, carbon_monoxide, nitrogen_dioxide, sulphur_dioxide, ozone, particular_date, time) VALUES (%(aq_id)s, %(city_id)s, %(pm10)s, %(pm2_5)s, %(carbon_monoxide)s, %(nitrogen_dioxide)s, %(sulphur_dioxide)s, %(ozone)s, %(particular_date)s, %(time)s)]
+[parameters: [{'aq_id': 'ea0d1589-9f9a-4988-a630-86362a35181c', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 2.6, 'pm2_5': 0.8, 'carbon_monoxide': 115.0, 'nitrogen_dioxide': 1.3, 'sulphur_dioxide': 0.1, 'ozone': 113.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(13, 0)}, {'aq_id': '2a7bb08f-6fa6-4092-a27f-556f1359aa0f', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 3.8, 'pm2_5': 1.2, 'carbon_monoxide': 116.0, 'nitrogen_dioxide': 1.1, 'sulphur_dioxide': 0.1, 'ozone': 122.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(14, 0)}, {'aq_id': 'c59a2068-b139-4efe-864a-1da3a58cf9ea', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 5.4, 'pm2_5': 1.6, 'carbon_monoxide': 118.0, 'nitrogen_dioxide': 0.8, 'sulphur_dioxide': 0.1, 'ozone': 135.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(15, 0)}, {'aq_id': '01e8d276-7788-43ac-a77a-7fc39a3a4ff1', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 9.5, 'pm2_5': 3.4, 'carbon_monoxide': 121.0, 'nitrogen_dioxide': 0.5, 'sulphur_dioxide': 0.2, 'ozone': 146.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(16, 0)}, {'aq_id': '2d7068a6-4b23-4dec-a0a7-1db56ca5d2bb', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 10.4, 'pm2_5': 4.0, 'carbon_monoxide': 126.0, 'nitrogen_dioxide': 0.3, 'sulphur_dioxide': 0.3, 'ozone': 154.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(17, 0)}, {'aq_id': '5fddc53d-597e-45c0-b9c1-6724367e0aca', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 11.4, 'pm2_5': 4.7, 'carbon_monoxide': 132.0, 'nitrogen_dioxide': 0.2, 'sulphur_dioxide': 0.4, 'ozone': 160.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(18, 0)}, {'aq_id': '31c1dfec-9551-4a58-8b07-04ee23124e2c', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 11.2, 'pm2_5': 4.6, 'carbon_monoxide': 136.0, 'nitrogen_dioxide': 0.1, 'sulphur_dioxide': 0.5, 'ozone': 164.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(19, 0)}, {'aq_id': '7a09e900-1d74-479e-b4d5-2ee6960c57a2', 'city_id': '5e519a6c-c5ac-4ce0-a69c-eeada7f2dd65', 'pm10': 11.3, 'pm2_5': 4.7, 'carbon_monoxide': 137.0, 'nitrogen_dioxide': 0.1, 'sulphur_dioxide': 0.5, 'ozone': 165.0, 'particular_date': datetime.date(2024, 5, 28), 'time': datetime.time(20, 0)}  ... displaying 10 of 50375 total bound parameter sets ...  {'aq_id': '7cd3fcf5-2d25-44df-ad89-b64c401e4ce5', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'pm10': 31.8, 'pm2_5': 14.8, 'carbon_monoxide': 137.0, 'nitrogen_dioxide': 3.5, 'sulphur_dioxide': 2.1, 'ozone': 48.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(11, 0)}, {'aq_id': 'ed183fdb-df99-4fde-b104-761585cfe28f', 'city_id': '558cbb5b-fc89-40bd-99b4-8287749505dc', 'pm10': 31.3, 'pm2_5': 14.5, 'carbon_monoxide': 132.0, 'nitrogen_dioxide': 3.3, 'sulphur_dioxide': 2.0, 'ozone': 47.0, 'particular_date': datetime.date(2024, 5, 29), 'time': datetime.time(12, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:08:24,332 - WARNING - No data found for task write_air_quality_index_to_db.
+2024-05-29 22:08:39,995 - ERROR - Error occurred in task insert_data_historical_temperature: (pymysql.err.IntegrityError) (1062, "Duplicate entry 'f38cbe91-9b4a-4f2f-be92-378dff92dc03' for key 'historical_temperature.PRIMARY'")
+[SQL: INSERT INTO historical_temperature (hist_temp_id, coordinate_uu_id, temperature, particular_date, time) VALUES (%(hist_temp_id)s, %(coordinate_uu_id)s, %(temperature)s, %(particular_date)s, %(time)s)]
+[parameters: [{'hist_temp_id': 'f38cbe91-9b4a-4f2f-be92-378dff92dc03', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 8.142999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(0, 0)}, {'hist_temp_id': '7722fafa-ac9d-4665-b439-7c179e66b786', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 8.142999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(1, 0)}, {'hist_temp_id': '4ee06488-acf8-4a28-9e6d-83b4787abf76', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 8.243000030517578, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(2, 0)}, {'hist_temp_id': '6cc6f7a2-b17d-47f6-967e-4c26e5ec97ba', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 9.642999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(3, 0)}, {'hist_temp_id': 'fe6c1227-d367-489f-a9b4-4b870aa4ae24', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 12.142999649047852, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(4, 0)}, {'hist_temp_id': '2f291427-9418-46d2-b7b4-295df20d065e', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 14.542999267578125, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(5, 0)}, {'hist_temp_id': '26bc46f8-0ff9-4387-93c3-20ce0e89097e', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 16.292999267578125, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(6, 0)}, {'hist_temp_id': 'e333262b-00b9-417a-8ecb-85fa0b8b29b4', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'temperature': 17.4429988861084, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(7, 0)}  ... displaying 10 of 933120 total bound parameter sets ...  {'hist_temp_id': '33f56cab-2308-469a-badc-52efeb69cf39', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'temperature': 17.430500030517578, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(22, 0)}, {'hist_temp_id': 'aeaa582a-2bf4-4733-bd7b-61379a1d0ada', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'temperature': 16.430500030517578, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(23, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:08:40,003 - WARNING - No data found for task write_historical_temperature_to_db.
+2024-05-29 22:08:59,245 - ERROR - Error occurred in task insert_data_historical_precipitation: (pymysql.err.IntegrityError) (1062, "Duplicate entry '51bad1bc-8309-41b4-831f-975c32d5ee9c' for key 'historical_precipitation.PRIMARY'")
+[SQL: INSERT INTO historical_precipitation (hist_preci_id, coordinate_uu_id, precipitation, snowfall, rain, particular_date, time) VALUES (%(hist_preci_id)s, %(coordinate_uu_id)s, %(precipitation)s, %(snowfall)s, %(rain)s, %(particular_date)s, %(time)s)]
+[parameters: [{'hist_preci_id': '51bad1bc-8309-41b4-831f-975c32d5ee9c', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(0, 0)}, {'hist_preci_id': 'd56dd09d-6759-4449-a8ab-956a6586ab34', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(1, 0)}, {'hist_preci_id': '42cb15bb-e2b5-4460-bb94-37fb1144b28b', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(2, 0)}, {'hist_preci_id': 'be012ecb-637f-4db0-90ca-3d478baf5b13', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(3, 0)}, {'hist_preci_id': '7381fcfd-f0fc-43a0-827e-26374170f3d7', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(4, 0)}, {'hist_preci_id': '53e9fdae-0df7-4345-b472-29ca817f25bd', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(5, 0)}, {'hist_preci_id': 'bd35d3ef-9097-422b-99c3-7ca68301cb4b', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(6, 0)}, {'hist_preci_id': '0965a7f9-d429-4954-925d-18db703c6da9', 'coordinate_uu_id': '5b71ab4c-3e90-4872-ada0-e89efa2a35c4', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 1, 1), 'time': datetime.time(7, 0)}  ... displaying 10 of 933120 total bound parameter sets ...  {'hist_preci_id': '627dfe28-d663-41ef-a847-6688b0bc1a11', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(22, 0)}, {'hist_preci_id': 'ca537657-57bb-45e8-9718-f5dc3aac5372', 'coordinate_uu_id': '1fe95a99-d0e1-4b65-8104-6fb59db1bb8a', 'precipitation': 0.0, 'snowfall': 0.0, 'rain': 0.0, 'particular_date': datetime.date(2023, 3, 1), 'time': datetime.time(23, 0)}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-05-29 22:08:59,245 - WARNING - No data found for task write_historical_precipitation_to_db.
+2024-05-29 22:11:27,311 - INFO - Task extract_cities_coordinates completed successfully.
+2024-05-29 22:11:27,426 - INFO - Task extract_weather completed successfully.
+2024-05-29 22:11:27,516 - INFO - Task extract_uv_index completed successfully.
+2024-05-29 22:11:27,631 - INFO - Task extract_air_quality_index completed successfully.
+2024-05-29 22:11:28,855 - INFO - Task extract_historical_temperature completed successfully.
+2024-05-29 22:11:30,398 - INFO - Task extract_historical_precipitation completed successfully.
+2024-05-29 22:11:32,385 - INFO - Task write_city_coordinates_to_db completed successfully.
+2024-05-29 22:11:35,683 - INFO - Task write_weather_to_db completed successfully.
+2024-05-29 22:11:38,588 - INFO - Task write_uv_index_to_db completed successfully.
+2024-05-29 22:11:42,088 - INFO - Task write_air_quality_index_to_db completed successfully.
+2024-05-29 22:12:28,562 - INFO - Task write_historical_temperature_to_db completed successfully.
+2024-05-29 22:13:29,017 - INFO - Task write_historical_precipitation_to_db completed successfully.
