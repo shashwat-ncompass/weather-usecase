@@ -1,0 +1,9 @@
+mysql-connector-python
+numpy
+pandas
+python-dotenv
+pytz
+requests
+openmeteo-requests
+requests-cache 
+retry-requests
