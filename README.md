@@ -101,5 +101,5 @@ There are two DAGs in Airflow which will run one after the other:
 
 ### Flow Chart of Second DAG
 
-![Flow Chart of Second DAG](path/to/second_dag_flow_chart.png)
+![Flow Chart of Second DAG](images/second_dag_flow_chart.png)
 
